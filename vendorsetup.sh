@@ -1,0 +1,2 @@
+add_lunch_combo lineage_j1mini3g-userdebug
+add_lunch_combo lineage_j1mini3g-eng

@@ -1,0 +1,2 @@
+Diretório da device tree da j1mini3g
+
