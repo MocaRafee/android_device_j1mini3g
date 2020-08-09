@@ -1,2 +1,3 @@
+add_Lynch_combo lineage j1mini3g-user
 add_lunch_combo lineage_j1mini3g-userdebug
 add_lunch_combo lineage_j1mini3g-eng
