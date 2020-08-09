@@ -109,7 +109,7 @@ BOARD_HAS_NO_SELECT_BUTTON := true
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/j1mini3g
-TARGET_KERNEL_CONFIG := lineage_j1mini3g-OC_defconfig
+TARGET_KERNEL_CONFIG := j1mini3g_defconfig
 TARGET_KERNEL_HAVE_EXFAT := true
 NEED_KERNEL_MODULE_ROOT := true
 BOARD_KERNEL_CMDLINE := console=ttyS1,115200n8
